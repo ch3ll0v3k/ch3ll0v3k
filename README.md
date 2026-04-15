@@ -2,4 +2,4 @@
 
 
 
-<video src="path/to/video.mp4" width="640" height="480" controls></video>
+<video src="file_example_AVI_480_750kB.avi" width="640" height="480" controls></video>
